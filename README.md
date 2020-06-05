@@ -1,5 +1,4 @@
-<a href="https://ibb.co/SdTqWNJ"><img src="https://i.ibb.co/Hxvm17X/ecoleta-1.png" alt="ecoleta-1" border="0"></a>
-
+<p align="center"><img src="https://i.ibb.co/Hxvm17X/ecoleta-1.png" alt="ecoleta-1" border="0"></p>
 
 # :dart: Goal
 
@@ -37,7 +36,7 @@ waste collection.
 
 # :school:   
 
-Project made during Next Level Week, for study purpose
+Project made during Next Level Week, for study purposes
 
 
 
