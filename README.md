@@ -14,7 +14,7 @@ waste collection.
 
 - Web: React/Typescript
 - Mobile: React Native/Typescript 
-- Sever: Express, KnexJS, SQLite, CORS,ts-node
+- Server: Express, KnexJS, SQLite, CORS,ts-node
 
 
 
