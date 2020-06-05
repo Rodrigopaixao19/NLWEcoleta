@@ -3,7 +3,7 @@
 # :dart: Goal
 
 The project was made with the goal to establish a connection between recycling entities
-and their collection points with people who who have no access to proper and eco-friendly 
+and their collection points with people who have no access to proper and eco-friendly 
 waste collection.
 
 
